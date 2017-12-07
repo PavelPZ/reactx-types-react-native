@@ -5,7 +5,7 @@
   "registry": "npm",
   "main": "",
   "devDependencies": {
-    "@types/react": "git+https://github.com/PavelPZ/reactx-types-react.git"
+    "@types/react": "PavelPZ/reactx-types-react"
   },
   "repository": {
     "type": "git",
